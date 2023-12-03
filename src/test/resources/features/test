@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import io.cucumber.java.en.*;
+import io.restassured.response.Response;
+
+public class MovieInformationSteps {
+
+    private String imdbId;
+    private Response bySearchResponse;
+    private Response byIdOrTitleResponse;
+
+    @Given("the API is up and running")
+    public void theAPIIsUpAndRunning() {
+        // Implementation to ensure API is up and running
+    }
+
+    @When("a GET request is sent to {string} using {string}")
+    public void aGETRequestIsSentToUsing(String searchTerm, String searchType) {
+        bySearchResponse = sendSearchRequest(searchTerm, searchType);
+    }
+
+    @Then("the IMDb ID for {string} should be retrieved")
+    public void theIMDbIDForShouldBeRetrieved(String movieTitle) {
+        imdbId = getImdbIdFromResponse(bySearchResponse, movieTitle);
+    }
+
+    @When("a GET request is sent to the {string} endpoint with the retrieved IMDb ID")
+    public void aGETRequestIsSentToEndpointWithTheRetrievedIMDbID(String endpoint) {
+        byIdOrTitleResponse = sendIdOrTitleRequest(imdbId, endpoint);
+    }
+
+    @Then("the response status code should be {int}")
+    public void theResponseStatusCodeShouldBe(int expectedStatusCode) {
+        // Check status code in both responses
+    }
+
+    @And("the title of the movie should be {string}")
+    public void theTitleOfTheMovieShouldBe(String expectedTitle) {
+        // Check title in both responses
+    }
+
+    @And("the titles from both responses should match")
+    public void theTitlesFromBothResponsesShouldMatch() {
+        // Check if titles from both responses match
+    }
+
+    private Response sendSearchRequest(String searchTerm, String searchType) {
+        // Implementation to send a search request
+        return null;
+    }
+
+    private Response sendIdOrTitleRequest(String imdbId, String endpoint) {
+        // Implementation to send a request using IMDb ID or Title
+        return null;
+    }
+
+    private String getImdbIdFromResponse(Response response, String movieTitle) {
+        // Implementation to extract IMDb ID from the response
+        return null;
+    }
+}

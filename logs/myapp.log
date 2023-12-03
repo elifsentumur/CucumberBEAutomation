@@ -1,0 +1,459 @@
+2023-12-02 19:01:30.553 [main] INFO  BOLD_IS_UNDEFINEDutils.LoggerUtilNORMAL_IS_UNDEFINED - Before Scenario: Setting up API
+2023-12-02 19:01:32.854 [main] INFO  BOLD_IS_UNDEFINEDutils.LoggerUtilNORMAL_IS_UNDEFINED - Get Response valueio.restassured.internal.RestAssuredResponseImpl@35a0e495
+2023-12-02 19:01:32.856 [main] INFO  BOLD_IS_UNDEFINEDutils.LoggerUtilNORMAL_IS_UNDEFINED - IMDb ID for the movie: null
+2023-12-02 19:03:09.516 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 19:03:11.549 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@303f1234
+2023-12-02 19:03:12.369 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 19:39:46.400 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 19:39:49.389 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@77c233af
+2023-12-02 19:39:50.429 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 20:56:01.749 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 20:56:04.260 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@29050de5
+2023-12-02 20:56:05.326 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 20:57:37.187 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 20:57:39.251 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@29050de5
+2023-12-02 20:57:40.128 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 20:57:40.132 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.
+2023-12-02 21:01:17.020 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:01:19.158 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@2b148329
+2023-12-02 21:01:20.692 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:01:20.699 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:01:21.523 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-02 21:14:53.840 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:14:56.181 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@65bb6275
+2023-12-02 21:14:57.004 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:14:57.007 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:16:51.837 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:16:53.971 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@4087c7fc
+2023-12-02 21:16:54.718 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:16:54.880 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-02 21:24:34.458 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:24:36.843 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@29050de5
+2023-12-02 21:24:37.716 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:24:37.719 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:24:37.721 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:24:38.513 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@508ad266
+2023-12-02 21:24:38.517 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:26:59.509 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:27:01.501 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@29050de5
+2023-12-02 21:27:02.302 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:27:02.304 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:27:02.306 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:27:02.416 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@508ad266
+2023-12-02 21:27:02.421 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:29:41.696 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:29:44.239 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-02 21:29:45.270 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:29:45.272 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:29:45.274 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:29:45.397 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@30abf79c
+2023-12-02 21:29:45.402 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:30:40.828 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:30:42.988 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@29050de5
+2023-12-02 21:30:43.932 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:30:43.933 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:30:43.935 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:30:44.057 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@508ad266
+2023-12-02 21:30:44.061 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:38:35.099 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:38:36.613 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@4dc7cd1c
+2023-12-02 21:38:37.203 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:38:37.206 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:38:37.343 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:38:37.438 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@62f9c790
+2023-12-02 21:38:37.440 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:38:37.463 [main] INFO  utils.LoggerUtil - Wait to actualTitle : null
+2023-12-02 21:40:02.802 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:40:04.663 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@1e84f3c8
+2023-12-02 21:40:05.283 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:40:05.286 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:40:05.371 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:40:05.485 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@546ed2a0
+2023-12-02 21:40:05.488 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:42:55.195 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:42:56.738 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@53d9826f
+2023-12-02 21:42:57.343 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:42:57.345 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:42:57.435 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:42:57.544 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@546ed2a0
+2023-12-02 21:42:57.548 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:44:06.531 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:44:08.121 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@53d9826f
+2023-12-02 21:44:08.685 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:44:08.686 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:44:08.774 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:44:08.868 [main] INFO  utils.LoggerUtil - a GET request is sent to IMDb ID and year for responseio.restassured.internal.RestAssuredResponseImpl@7994a0d1
+2023-12-02 21:44:08.870 [main] INFO  utils.LoggerUtil - with id key response : 200
+2023-12-02 21:44:56.520 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:44:58.115 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@399ca607
+2023-12-02 21:44:58.702 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 21:44:58.704 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 21:55:14.148 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 21:55:16.367 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@72a2312e
+2023-12-02 21:55:17.229 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 22:03:11.683 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 22:03:13.850 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@41fa769c
+2023-12-02 22:03:38.049 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 22:03:40.378 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@41fa769c
+2023-12-02 22:03:41.172 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 22:03:41.174 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 22:04:52.197 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-02 22:04:54.469 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@399ca607
+2023-12-02 22:04:55.328 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-02 22:04:55.330 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-02 22:04:55.497 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 16:46:41.956 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 16:46:45.901 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@47c7a9e5
+2023-12-03 16:46:47.030 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 16:46:47.032 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:10:27.791 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:10:30.450 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6f3f0ae
+2023-12-03 17:10:31.601 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:10:31.603 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:10:31.881 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 17:10:32.874 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.internal.RestAssuredResponseImpl@4fea840f
+2023-12-03 17:10:33.026 [main] INFO  utils.LoggerUtil - This request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 17:45:31.000 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:45:33.471 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 17:45:34.411 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:45:34.413 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:45:34.623 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 17:45:34.811 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.internal.RestAssuredResponseImpl@32ae8f27
+2023-12-03 17:45:34.898 [main] INFO  utils.LoggerUtil - This request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 17:45:34.969 [main] INFO  utils.LoggerUtil - get search id value should be checkedgnull
+2023-12-03 17:50:15.976 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:50:18.316 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 17:50:19.159 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:50:19.161 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:50:19.380 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 17:50:19.545 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.internal.RestAssuredResponseImpl@32ae8f27
+2023-12-03 17:53:22.229 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:53:24.623 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@c889805
+2023-12-03 17:53:25.479 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:53:25.482 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:55:01.000 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:55:03.288 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3850e90c
+2023-12-03 17:55:04.097 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:55:04.099 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:55:04.988 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 17:56:59.875 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:57:26.411 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@69aa7d76
+2023-12-03 17:57:27.252 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:57:27.257 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:57:27.444 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 17:57:27.596 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.internal.RestAssuredResponseImpl@1b8aaeab
+2023-12-03 17:57:46.822 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:57:49.208 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 17:57:50.217 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:57:50.220 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:57:50.441 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 17:57:50.625 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.internal.RestAssuredResponseImpl@32ae8f27
+2023-12-03 17:58:54.049 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 17:58:56.280 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6f3f0ae
+2023-12-03 17:58:57.423 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 17:58:57.426 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 17:58:57.648 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 17:58:57.800 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.internal.RestAssuredResponseImpl@32ae8f27
+2023-12-03 18:06:33.124 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:06:35.551 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 18:06:36.486 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:06:36.491 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:06:36.709 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:09:34.696 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:09:36.890 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@4fb56bea
+2023-12-03 18:09:38.064 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:09:38.066 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:09:38.331 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:26:52.165 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:26:54.235 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@2da99821
+2023-12-03 18:26:55.093 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:26:55.095 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:26:55.313 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:26:55.512 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@584ca390
+2023-12-03 18:26:55.541 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:26:55.602 [main] INFO  utils.LoggerUtil - get search id value should be checkedgnull
+2023-12-03 18:28:30.683 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:28:32.899 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 18:28:33.765 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:28:33.767 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:28:33.952 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:28:34.146 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@2d130ac4
+2023-12-03 18:28:34.178 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:28:34.225 [main] INFO  utils.LoggerUtil - get search id value should be checkedgnull
+2023-12-03 18:30:31.523 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:30:33.637 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 18:30:34.456 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:30:34.458 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:30:34.671 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:30:34.869 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@2d130ac4
+2023-12-03 18:30:34.909 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:30:34.975 [main] INFO  utils.LoggerUtil - get search id value should be checkedgnull
+2023-12-03 18:36:58.764 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:37:01.038 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3913f206
+2023-12-03 18:37:01.897 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:37:01.900 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:37:02.145 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:37:02.356 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@3009eed7
+2023-12-03 18:37:02.382 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:37:02.425 [main] INFO  utils.LoggerUtil - get search id value should be checkedgnull
+2023-12-03 18:38:23.773 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:38:25.797 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 18:38:26.604 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:38:26.606 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:38:26.823 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:38:26.997 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@2d130ac4
+2023-12-03 18:38:27.044 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:38:27.099 [main] INFO  utils.LoggerUtil - get search id value should be checkedgnull
+2023-12-03 18:39:49.276 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:39:51.569 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@76536c53
+2023-12-03 18:39:52.510 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:39:52.512 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:41:33.193 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:41:35.489 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 18:41:36.432 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:41:36.434 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:41:36.631 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:41:36.850 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@2d130ac4
+2023-12-03 18:41:36.945 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:43:08.430 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:43:10.609 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3453acd2
+2023-12-03 18:43:11.483 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:43:11.485 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:43:11.679 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:43:11.892 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@6fbf5db2
+2023-12-03 18:43:11.980 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:43:11.980 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:43:46.991 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:43:49.229 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 18:43:50.066 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:43:50.069 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:43:50.296 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:43:50.491 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@2d130ac4
+2023-12-03 18:43:50.560 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:43:50.561 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :null
+2023-12-03 18:46:49.503 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:46:51.787 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6baf25d7
+2023-12-03 18:46:52.710 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:46:52.712 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:46:52.953 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:46:53.155 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@2d130ac4
+2023-12-03 18:46:53.206 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:46:53.206 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 18:46:53.208 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:57:43.928 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:57:46.133 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6f3f0ae
+2023-12-03 18:57:47.065 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:57:47.066 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:57:47.374 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@29bbc391
+2023-12-03 18:57:47.401 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 18:57:47.572 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@111cba40
+2023-12-03 18:57:47.620 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 18:57:47.621 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 18:57:47.624 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 18:59:44.520 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 18:59:46.885 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@363c32cc
+2023-12-03 18:59:47.852 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 18:59:47.855 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:00:41.210 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:00:43.353 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@53d9826f
+2023-12-03 19:00:44.310 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:00:44.313 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:02:16.495 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:02:18.627 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3e8799f
+2023-12-03 19:02:19.495 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:02:19.498 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:02:19.703 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@4f664bee
+2023-12-03 19:02:19.732 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:02:19.901 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@5fd43e58
+2023-12-03 19:02:19.933 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:02:19.934 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:02:19.936 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:04:19.226 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:04:21.407 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@69aa7d76
+2023-12-03 19:04:22.326 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:04:22.328 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:04:22.519 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@67f946c3
+2023-12-03 19:04:22.545 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:04:22.703 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@58a3d521
+2023-12-03 19:04:22.745 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:04:22.745 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:04:22.747 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:08:58.087 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:09:00.465 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3913f206
+2023-12-03 19:09:01.402 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:09:01.404 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:09:02.233 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@6b4a4e40
+2023-12-03 19:09:02.258 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:09:02.429 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@4a1a412e
+2023-12-03 19:09:02.464 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:09:02.465 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:09:02.466 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:11:01.687 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:11:03.842 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6f3f0ae
+2023-12-03 19:11:04.741 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:11:04.743 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:11:04.942 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@29bbc391
+2023-12-03 19:11:04.971 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:11:05.140 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@111cba40
+2023-12-03 19:11:05.176 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:11:05.177 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:11:05.179 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:11:47.898 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:11:49.982 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@363c32cc
+2023-12-03 19:11:50.896 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:11:50.897 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:11:51.063 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@29bbc391
+2023-12-03 19:11:51.085 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:11:51.242 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@111cba40
+2023-12-03 19:11:51.285 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:11:51.286 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:11:51.288 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:12:43.764 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:12:45.995 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@76bf1bb8
+2023-12-03 19:12:46.877 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:12:46.880 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:12:46.907 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:12:47.086 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@76563ae7
+2023-12-03 19:12:47.185 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:12:47.186 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:12:47.361 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@3b5a19ed
+2023-12-03 19:12:47.381 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:12:47.399 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:12:47.582 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3344d163
+2023-12-03 19:12:47.688 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:12:47.690 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:12:47.862 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@31881aa2
+2023-12-03 19:12:47.890 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:12:48.101 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@230232b0
+2023-12-03 19:12:48.147 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:12:48.147 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:12:48.148 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:25:10.494 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:13.325 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@7ddcb0dc
+2023-12-03 19:25:14.232 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:14.256 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:14.446 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@2969a9a6
+2023-12-03 19:25:14.547 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:14.595 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:14.826 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@23f5008a
+2023-12-03 19:25:14.953 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:14.955 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:25:14.992 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:15.170 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@7df4709e
+2023-12-03 19:25:15.285 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:15.455 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@1a84a8b2
+2023-12-03 19:25:15.491 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:25:15.521 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:15.748 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3d235635
+2023-12-03 19:25:15.844 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:16.795 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@2f07930a
+2023-12-03 19:25:16.810 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:16.999 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3dd2b9c1
+2023-12-03 19:25:17.071 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:17.885 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@44976b08
+2023-12-03 19:25:17.897 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:18.032 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3f9f8d23
+2023-12-03 19:25:18.088 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:18.956 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@6b2e9db2
+2023-12-03 19:25:18.969 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:19.246 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@7769d9b6
+2023-12-03 19:25:19.299 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:20.199 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@fe08eaf
+2023-12-03 19:25:20.218 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:20.470 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@135064ea
+2023-12-03 19:25:20.521 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:20.522 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:25:20.529 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:20.815 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@1a0ffb9b
+2023-12-03 19:25:20.862 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:20.863 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:25:21.232 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@3ee258
+2023-12-03 19:25:21.246 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:25:21.254 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:21.486 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@6fe2a366
+2023-12-03 19:25:21.576 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:25:21.576 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:25:21.920 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@6ca33187
+2023-12-03 19:25:21.934 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:25:22.307 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@7a7f9d45
+2023-12-03 19:25:22.329 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:25:22.329 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:25:22.330 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:25:22.367 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:25:22.381 [main] INFO  utils.LoggerUtil - Performing API search by IMDb ID
+2023-12-03 19:28:01.783 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:28:04.031 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@11c88cca
+2023-12-03 19:28:04.986 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:28:04.992 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:28:05.027 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:28:05.222 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@4abbe41c
+2023-12-03 19:28:05.354 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:28:05.358 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:28:05.559 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@67941d
+2023-12-03 19:28:05.615 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:28:05.641 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:28:05.825 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@502c2278
+2023-12-03 19:28:05.944 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:28:05.950 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:28:06.135 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@3ef0e576
+2023-12-03 19:28:06.178 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:28:06.385 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@2c674d58
+2023-12-03 19:28:06.451 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:28:06.452 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:28:06.454 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:33:47.051 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:33:49.401 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@3db65c0d
+2023-12-03 19:33:50.380 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:33:50.386 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:33:50.444 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:33:50.662 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@43deba42
+2023-12-03 19:33:50.745 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:33:50.915 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@205159dc
+2023-12-03 19:33:51.102 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:33:51.104 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:33:51.290 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@5d27b4c1
+2023-12-03 19:33:51.339 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:33:51.516 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@42cc420b
+2023-12-03 19:33:51.604 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:33:51.604 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:33:51.606 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:40:50.214 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:40:52.628 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@c689973
+2023-12-03 19:40:53.706 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:40:53.708 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:40:53.752 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:40:53.944 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@5d850a25
+2023-12-03 19:40:54.104 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:40:54.107 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:40:54.300 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@5396eeb1
+2023-12-03 19:40:54.325 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:40:54.348 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:40:54.523 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@1ecf0ac6
+2023-12-03 19:40:54.611 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:40:54.613 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:40:54.785 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@2616b618
+2023-12-03 19:40:54.808 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:40:54.993 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@134a8ead
+2023-12-03 19:40:55.027 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:40:55.028 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:40:55.030 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:44:08.996 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:44:11.212 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@41def031
+2023-12-03 19:44:12.182 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:44:12.186 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:44:12.230 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:44:12.412 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@77b71c9
+2023-12-03 19:44:12.527 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:44:12.530 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:44:12.709 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@31c7c281
+2023-12-03 19:44:12.734 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:44:12.756 [main] INFO  utils.LoggerUtil - Before Scenario: Setting up API
+2023-12-03 19:44:12.911 [main] INFO  utils.LoggerUtil - Get Response valueio.restassured.internal.RestAssuredResponseImpl@2bb0e277
+2023-12-03 19:44:13.017 [main] INFO  utils.LoggerUtil - IMDb ID for the movie: tt0241527
+2023-12-03 19:44:13.019 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527
+2023-12-03 19:44:13.187 [main] INFO  utils.LoggerUtil - a GET request is sent to the {string} search endpoint with type {string} and user specified type : io.restassured.internal.RestAssuredResponseImpl@41d20f06
+2023-12-03 19:44:13.225 [main] INFO  utils.LoggerUtil - Wait to actualTitle : Harry Potter and the Sorcerer's Stone
+2023-12-03 19:44:13.431 [main] INFO  utils.LoggerUtil - a GET request is sent to String and used with imbdID io.restassured.path.json.JsonPath@5f5c187d
+2023-12-03 19:44:13.502 [main] INFO  utils.LoggerUtil - this request should be title StringHarry Potter and the Sorcerer's Stone
+2023-12-03 19:44:13.503 [main] INFO  utils.LoggerUtil - this request should be title searchAndImdbId :tt0241527
+2023-12-03 19:44:13.504 [main] INFO  utils.LoggerUtil - IMDb ID değeri boş olamaz.tt0241527

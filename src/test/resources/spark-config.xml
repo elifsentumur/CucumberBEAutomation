@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Theme -->
+        <theme>standard</theme>
+
+        <!-- Document Title -->
+        <documentTitle>Trendyol QA - Test Automation Report</documentTitle>
+
+        <!-- Encoding -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Time Zone -->
+        <timeZone>UTC</timeZone>
+
+        <!-- Chart Visibility -->
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+
+        <!-- Report Head -->
+        <reportHead>
+            <css>div.test-head {background-color:#4CAF50;}</css>
+            <css>div.test-name {color:#4CAF50;}</css>
+            <css>div.step-name {color:#4CAF50;}</css>
+            <css>div.step-info {color:#4CAF50;}</css>
+            <css>div.chart-container {color:#4CAF50;}</css>
+            <css>div.chart-title {color:#4CAF50;}</css>
+        </reportHead>
+
+        <!-- System Info -->
+        <systemInfo>
+            <parameter>
+                <name>Environment</name>
+                <value>Test</value>
+            </parameter>
+            <!-- Add more system parameters as needed -->
+        </systemInfo>
+
+    </configuration>
+</extentreports>
