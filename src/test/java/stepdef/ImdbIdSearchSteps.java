@@ -27,11 +27,12 @@ public class ImdbIdSearchSteps {
 
     private String searchResponseTitle, withIDSearchResponseTitle, idInfoResponseTitle;
 
+    //Apikey information sayfasında bulunmaktadır.   .withBaseUrl("https://www.omdbapi.com")
     @Given("the API is up and running")
     public void givenApiIsUpAndRunning() {
         LoggerUtil.info("Before Scenario: Setting up API");
         apiPage = ApiPage.builder()
-                .withBaseUrl("https://www.omdbapi.com")
+                .withBaseUrl("")
                 .build();
         imdbIdSearchPage = new ImdbIdSearchPage(apiPage);
     }

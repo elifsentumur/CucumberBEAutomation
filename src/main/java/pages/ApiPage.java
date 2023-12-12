@@ -11,7 +11,9 @@ import java.util.List;
 public class ApiPage {
 
     private String baseUrl;
-    private static final String API_KEY = "a66a0c9";
+
+    //ApiKeyInformation text dosyasında bulunmaktadır.
+    private static final String API_KEY = "";
 
     private ApiPage(String baseUrl) {
         this.baseUrl = baseUrl;
