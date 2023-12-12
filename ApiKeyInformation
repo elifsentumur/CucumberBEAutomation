@@ -1,3 +1,0 @@
-private static final String API_KEY = "a66a0c9";
-
-.withBaseUrl("https://www.omdbapi.com")
